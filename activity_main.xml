@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.haasikapuram.dontpanic.MainActivity"
+   >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <view
+        android:id="@+id/toolbar"
+        class="android.support.v7.widget.Toolbar"
+        id="@+id/view2"
+        layout_alignParentLeft="true"
+        layout_alignParentStart="true"
+        layout_alignParentTop="true"
+        layout_marginLeft="0dp"
+        layout_marginStart="70dp"
+        layout_marginTop="19dp"
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <ImageButton
+        android:id="@+id/ib1"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:adjustViewBounds="true"
+        android:cropToPadding="true"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/c"
+        android:layout_marginRight="19dp"
+        android:layout_marginEnd="19dp"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/ib6"
+        android:layout_toStartOf="@+id/ib6"
+        android:layout_marginBottom="25dp" />
+
+
+
+        <ImageButton
+            android:id="@+id/ib3"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:adjustViewBounds="true"
+            android:cropToPadding="true"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/sym"
+            android:layout_marginRight="28dp"
+            android:layout_marginEnd="28dp"
+            android:layout_alignTop="@+id/ib7"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <ImageButton
+            android:id="@+id/ib4"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:adjustViewBounds="true"
+            android:cropToPadding="true"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/presc"
+            android:layout_marginTop="35dp"
+            android:layout_below="@+id/ib1"
+            android:layout_alignLeft="@+id/ib1"
+            android:layout_alignStart="@+id/ib1" />
+
+        <ImageButton
+            android:id="@+id/ib5"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:adjustViewBounds="true"
+            android:cropToPadding="true"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/bbim2"
+            android:layout_alignTop="@+id/ib4"
+            android:layout_alignLeft="@+id/ib3"
+            android:layout_alignStart="@+id/ib3" />
+
+        <ImageButton
+            android:id="@+id/ib6"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_alignLeft="@+id/ib5"
+            android:layout_alignStart="@+id/ib5"
+            android:layout_below="@+id/ib5"
+            android:layout_marginTop="32dp"
+            android:adjustViewBounds="true"
+            android:cropToPadding="true"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/mv" />
+
+        <ImageButton
+            android:id="@+id/ib7"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:adjustViewBounds="true"
+            android:cropToPadding="true"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/au"
+            android:layout_above="@+id/ib5"
+            android:layout_alignLeft="@+id/ib4"
+            android:layout_alignStart="@+id/ib4" />
+
+
+    </RelativeLayout>
+
+</ScrollView>
+
+

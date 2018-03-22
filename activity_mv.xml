@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.haasikapuram.dontpanic.mv">
+
+
+    <ListView
+        android:id="@+id/listView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:dividerHeight="?android:attr/expandableListPreferredChildPaddingLeft"
+        android:layout_below="@+id/toolbar"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <view
+
+        class="android.support.v7.widget.Toolbar"
+        id="@+id/view"
+        android:id="@+id/toolbar"
+        layout_alignParentLeft="true"
+        layout_alignParentStart="true"
+        layout_alignParentTop="true"
+        layout_marginLeft="75dp"
+        layout_marginStart="75dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:text="MEDICAL VIDEOS"
+        android:textAppearance="@style/TextAppearance.AppCompat">
+
+    </view>
+</RelativeLayout>

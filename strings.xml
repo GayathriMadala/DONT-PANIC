@@ -1,0 +1,189 @@
+<resources>
+    <string name="app_name">DON\'T PANIC</string>
+
+    <string name="s1">
+	\n	 * \t Abdominal cramps.
+\n\n       *\t  Diarrhea: Passage of 3 to 8 semiformed stools per day, or passage of soft stools with mucus and occasional blood.
+\n \n      *\t  Fatigue.
+\n  \n     *\t  Excessive gas.
+\n   \n    *\t  Rectal pain while having a bowel movement (tenesmus).
+\n     \n  *\t  Unintentional weight loss.
+    </string>
+    <string name="s2">
+\n	*\t    Frequent cough, especially at night\n
+	\n *\t Losing your breath easily or shortness of breath\n
+	\n *\t Feeling very tired or weak when exercising\n
+	\n *\t Wheezing or coughing after exercise\n
+	\n *\t Feeling tired, easily upset, grouchy, or moody\n
+	\n *\t Decreases or changes in lung function as measured on a peak flow meter\n
+	\n *\t Signs of a cold or allergies (sneezing, runny nose, cough, nasal congestion, sore throat, and headache)\n
+	\n *\t Trouble sleeping
+
+
+    </string>
+    <string name="s3">
+        \n*  Sudden, high fever
+\n\n  *\t Severe headaches
+\n\n  *\t Pain behind the eyes
+\n\n  *\t Severe joint and muscle pain
+\n\n  *\t Fatigue
+\n\n  *\t Nausea
+\n\n  *\t Vomiting
+\n\n  *\t Skin rash, which appears two to five days after the onset of fever
+\n\n  *\t Mild bleeding (such a nose bleed, bleeding gums, or easy bruising)
+
+
+    </string>
+    <string name="s4">
+    \n *\t Abdominal cramps.
+\n\n  *\t Abdominal pains.
+\n\n  *\t Urgency to go to the toilet.
+\n\n  *\t Frequent passing of loose, watery faeces.
+\n\n  *\t Nausea.
+\n\n  *\t Vomiting.
+    </string>
+    <string name="s5">
+  \n     *\t Pain, Itching, or Sensation of a foreign body in the eye.
+\n\n   *\t Photosensitivity (aversion to bright light)
+\n\n   *\t Redness or small red lines in the white of the eye.
+\n\n   *\t Discharge of yellow pus that may be crusty on waking up - a possible sign of bacterial infection.
+\n\n   *\t Tears
+    </string>
+    <string name="s6">
+      \n  	*\t	Fever (high body temperature).
+\n\n  *\t Fatigue, tiredness or lethargy.
+\n\n  *\t A skin rash, typically on the trunk or face rather than the limbs.
+\n\n  *\t Muscle aches and pains.
+\n\n  *\t Headache.
+\n\n  *\t Sore throat.
+\n\n  *\t Swollen lymph nodes in the neck or armpit. They can be unusually large and tender.
+\n\n  *\t Joint pain.
+\n\n  *\t Oral ulcers.
+\n\n  *\t Genital or anal ulcers.
+\n\n  *\t Weight loss.
+\n\n  *\t Nausea.
+\n\n  *\t Diarrhea.
+\n\n  *\t Night sweats.
+\n\n  *\t Cough.
+\n\n  *\t Anorexia.
+
+    </string>
+    <string name="s7">
+  \n 	*\t Yellow tinge to the skin and the whites of the eyes, normally starting at the head and spreading down the body.
+\n\n    *\t Pruritis (Itchiness)
+\n\n    *\t Fatigue.
+\n\n	*\t Abdominal pain - typically indicates a blockage of the bile duct.
+\n\n    *\t Weight loss.
+ \n\n   *\t	Vomiting.
+\n\n	*\t	Fever.
+\n\n	*\t Paler than usual stools.
+
+
+</string>
+    <string name="s8">
+        \n\n   *\t Shaking chills that can range from moderate to severe
+\n\n    *\t	High fever
+\n\n	*\t	Profuse sweating
+\n\n	*\t	Headache
+\n\n	*\t	Nausea
+\n\n	*\t	Vomiting
+\n\n	*\t	Diarrhea
+\n\n	*\t	Anemia
+\n\n	*\t	Muscle pain
+\n\n	*\t	Convulsions
+\n\n	*\t	Coma
+\n\n	*\t	Bloody stools
+
+    </string>
+    <string name="s9">
+
+\n	*\t		Chest pain
+\n\n *\t	Coughing blood
+\n\n *\t	Recurrent and constant cough
+\n\n *\t	Night sweats
+\n\n *\t	Fever
+\n\n *\t	Loss of appetite
+\n\n *\t	Pain in breathing or coughing
+\n\n *\t	Fatigue and weakness
+\n\n *\t	Enlargement of lymph nodes (in the neck and inside the chest)
+
+    </string>
+    <string name="s10">
+
+\n* \t	  High temperature, which can reach up to 39-40C (103-104F)
+\n\n* \t  Headache.
+\n\n* \t  Muscle aches.
+\n\n* \t Stomach pain.
+\n\n* \t Feeling sick.
+\n\n* \t Loss of appetite.
+\n\n* \t Constipation or diarrhoea (adults tend to get constipation and children tend to get diarrhoea)
+
+    </string>
+    <string name="p1">
+\n *\tGelusil
+        \n\n *\tPantaprozol
+        \n\n *\tEsaprozol
+        \n\n *\tRantidine
+        \n\n *\tMucaine gel
+
+    </string>
+    <string name="p2">
+\n *\tBurnol
+        \n\n *\tSilverex
+        \n\n *\tSilveron
+        \n\n *\tHealokind
+        \n\n *\tBurnheal
+    </string>
+    <string name="p3">
+\n *\tColdactive
+        \n\n *\tFeberex plus
+        \n\n *\tSinarest
+        \n\n *\tNevocet
+        \n\n *\tDcold
+        \n\n *\tVicks
+    </string>
+    <string name="p4">
+\n *\tKuff_Q
+        \n\n *\tKufrin
+        \n\n *\tAscoril
+        \n\n *\tBenadryl
+        \n\n *\tCosome
+    </string>
+    <string name="p5">
+\n\ *\tMoxicip
+        \n\n *\tZoxol
+        \n\n *\tGate
+        \n\n *\tBetnesol-n
+        \n\n *\tTobsan
+    </string>
+    <string name="p6">
+\n *\tCrocin
+        \n\n *\tDolo
+        \n\n *\tColpol
+        \n\n *\tParacetemol
+        \n\n *\tFefanine
+    </string>
+    <string name="p7">
+\n *\tSaridon
+        \n\n *\tDolo
+        \n\n *\tDart
+        \n\n *\tMigranine
+        \n\n *\tDolopar
+    </string>
+    <string name="p8">
+\n *\tMoyosparz
+        \n\n *\tMoov
+        \n\n *\tVolini
+        \n\n *\tThioford-ap
+        \n\n *\tDiclogesic
+    </string>
+    <string name="p9">
+\n *\tDomostal
+        \n\n *\tZofer
+        \n\n *\tAndem
+        \n\n *\tEmicet
+        \n\n *\tPerinorm
+    </string>
+
+
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="101dp"
+            android:layout_marginStart="101dp"
+            android:layout_marginTop="24dp"
+            android:text="ABOUT US"
+            android:textColor="?android:attr/textColorLink"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView"
+            android:layout_marginTop="19dp"
+            android:text="
+Don’t Panic is an android app where in by just a single click on the help button provided in the app your
+current location along with an alert message will be sent to ambulance and the pre-saved contacts that are added by
+an add contact feature provided within the app. This feature also allows the user to update the existing contacts,
+delete the contacts and also add new contact at any instance of time. Along with this feature we also provide the
+additional features in our app that include identifying the disease based on your health symptoms, prescription for
+general health irregularities, information about the blood banks and also offline first aid videos that help people to
+save the victim in emergency. There are few people who can neither afford a family doctor nor rush to a doctor for
+every health issue so here we help such people through our app by providing a minimal prescription for the regular
+health irregularities."
+            android:textColor="@android:color/black"
+            android:textSize="15sp" />
+    </RelativeLayout>
+</LinearLayout>
